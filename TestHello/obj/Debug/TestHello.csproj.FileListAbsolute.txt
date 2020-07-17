@@ -1,0 +1,7 @@
+G:\Visual Studio\Chapter 1\TestHello\bin\Debug\TestHello.exe.config
+G:\Visual Studio\Chapter 1\TestHello\bin\Debug\TestHello.exe
+G:\Visual Studio\Chapter 1\TestHello\bin\Debug\TestHello.pdb
+G:\Visual Studio\Chapter 1\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+G:\Visual Studio\Chapter 1\TestHello\obj\Debug\TestHello.exe
+G:\Visual Studio\Chapter 1\TestHello\obj\Debug\TestHello.pdb
+G:\Visual Studio\Chapter 1\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
